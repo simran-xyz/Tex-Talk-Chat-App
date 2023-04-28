@@ -1,0 +1,26 @@
+.messageBox{
+    background-color: gainsboro;
+    width:50%;
+    padding:1vmax;
+    margin:0.5vmax;
+    border-radius: 1.5vmax;
+    display:inline-block;
+    clear:both;
+    color: rgba(0, 0, 0, 0.753);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vmax;
+}
+.right{
+    float: right;
+    background-color: lightblue;
+    color: rgba(0, 0, 0, 0.753);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vmax;
+}
+.left{
+    float: left;
+    background-color: gainsboro;
+    color: rgba(0, 0, 0, 0.753);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vmax;
+}
